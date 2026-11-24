@@ -11,7 +11,7 @@ def row(id,name,state,office,district,party,source,level):
  return dict(id=id,name=name,state=state,office=office,district=district,party=party or 'Not supplied',source=source,level=level,review='Not yet reviewed',identity_checked='Not independently verified',imported_on=str(datetime.date.today()))
 def main():
  old=json.loads((ROOT/'officials.json').read_text()); evidence=json.loads((ROOT/'evidence.json').read_text()); rows=[]; errors=[]
- federal='https://raw.githubusercontent.com/unitedstates/congress-legislators/main/legislators-current.json'
+ federal='https://unitedstates.github.io/congress-legislators/legislators-current.json'
  try:
   for p in json.loads(get(federal)):
    t=p['terms'][-1]; s=t['state']; office={'rep':'House','sen':'Senate'}[t['type']]; district=f'{s}-{t.get("district",0):02}' if office=='House' else 'Statewide'; n=p['name']; name=n.get('official_full') or n['first']+' '+n['last']; rows.append(row('bioguide-'+p['id']['bioguide'],name,STATES[s],office,district,t.get('party'), 'https://bioguide.congress.gov/search/bio/'+p['id']['bioguide'],'Federal'))

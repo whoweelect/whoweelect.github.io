@@ -1,0 +1,21 @@
+name: Refresh national directory
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 13 * * 1'
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 refresh_roster.py
+      - run: python3 validate.py
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add officials.json coverage.json
+          git diff --cached --quiet || git commit -m 'Refresh directory roster'
+          git push

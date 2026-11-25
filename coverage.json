@@ -2,5 +2,31 @@
   "imported": "2026-11-24",
   "count": 7862,
   "errors": [],
-  "limitations": "Aggregated roster sources; executive offices not included; no accountability review implied."
+  "limitations": "Aggregated roster sources; executive offices not included; no accountability review implied.",
+  "federal_evidence_review": {
+    "as_of": "2026-11-25",
+    "scope": "Supplied federal government-source candidate queue and its quarantined associations",
+    "research_associations": 208,
+    "active_candidates": 132,
+    "active_dispositions": {
+      "ADD": 18,
+      "UPDATE": 1,
+      "ALREADY PUBLISHED": 38,
+      "DUPLICATE": 66,
+      "EXCLUDE": 2,
+      "DEFER": 7
+    },
+    "quarantined_associations": 76,
+    "quarantine_promotions": 0,
+    "published_baseline_records": 39,
+    "proposed_release_records": 49,
+    "proposed_additions": 10,
+    "proposed_amendments": 1,
+    "sources": [
+      "U.S. House Committee on Ethics",
+      "U.S. Senate Select Committee on Ethics",
+      "Federal Election Commission"
+    ],
+    "limitations": "Selected federal matters only. The docket review does not establish comprehensive coverage of officials, agencies, proceedings or the absence of misconduct."
+  }
 }

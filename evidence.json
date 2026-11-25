@@ -7,11 +7,21 @@
     "authority": "U.S. House Committee on Ethics",
     "event_date": "2020-07-16",
     "status": "Dismissed",
-    "outcome": "No excessive contribution found. No further action on disclosure errors.",
-    "summary": "The Committee received an OCE referral on September 18, 2019, extended review on November 4, and published the referral on December 17. It found that Trahan funded the loans with personal funds under her prenuptial agreement and found no evidence that disclosure errors or omissions were knowing and willful. It voted on July 15, 2020 to dismiss and closed the matter upon publication. In related matters, the FEC found no reason to believe Trahan knowingly accepted excessive contributions and used prosecutorial discretion to dismiss separate reporting and deposit allegations against her campaign committee and treasurer.",
+    "outcome": "Committee dismissed. No excessive contribution found and no further action on corrected disclosures.",
+    "summary": "The House Ethics Committee concluded the campaign loans came from Trahan’s personal funds. It found no evidence that the disclosure errors or omissions were knowing and willful, noted that she amended the disclosures, and voted to dismiss on July 15, 2020. The matter closed with publication on July 16. Separately, in MURs 7585 and 7588, the FEC found no reason to believe Trahan knowingly accepted excessive contributions and exercised prosecutorial discretion to dismiss certain reporting and deposit allegations involving her campaign committee and treasurer.",
     "source": "https://www.govinfo.gov/content/pkg/CRPT-116hrpt451/pdf/CRPT-116hrpt451.pdf",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "FEC MUR 7585",
+        "url": "https://www.fec.gov/data/legal/matter-under-review/7585/"
+      },
+      {
+        "label": "FEC MUR 7588",
+        "url": "https://www.fec.gov/data/legal/matter-under-review/7588/"
+      }
+    ]
   },
   {
     "id": "tlaib-campaign-salary",
@@ -20,12 +30,26 @@
     "category": "Campaign finance",
     "authority": "U.S. House Committee on Ethics",
     "event_date": "2020-08-07",
-    "status": "Closed",
-    "outcome": "Committee directed $10,800 repayment. FEC confirmed reimbursement and dismissed.",
-    "summary": "Following a 2019 OCE referral and further review, the Committee concluded that $10,800 of post-election compensation covered periods when Tlaib was no longer a candidate and directed her to reimburse her campaign. The Committee voted on July 23, 2020 to take no further action subject to completion. The FEC later confirmed reimbursement from campaign disclosures and dismissed under its prosecutorial discretion.",
+    "status": "Repayment documented",
+    "outcome": "Committee directed $10,800 in repayment. FEC documented repayment and dismissed the allegations.",
+    "summary": "The House Ethics Committee found that $10,800 covered periods after Tlaib ceased to be a candidate and directed her to reimburse her campaign. It found she did not seek to enrich herself unjustly. The Committee voted on July 23, 2020 to take no further action, with closure subject to confirmation of compliance. The FEC later documented reimbursement and dismissed the allegations in MUR 7579 under its prosecutorial discretion.",
     "source": "https://www.govinfo.gov/content/pkg/CRPT-116hrpt473/pdf/CRPT-116hrpt473.pdf",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "FEC MUR 7579",
+        "url": "https://www.fec.gov/data/legal/matter-under-review/7579/"
+      },
+      {
+        "label": "FEC approved factual and legal analysis",
+        "url": "https://www.fec.gov/files/legal/murs/7579/7579_16.pdf"
+      },
+      {
+        "label": "House Ethics report, agency copy",
+        "url": "https://ethics.house.gov/wp-content/uploads/2025/07/Committee-Report-20250725-Rep.-Ocasio-Cortez.pdf"
+      }
+    ]
   },
   {
     "id": "williams-fast-act-amendment",
@@ -49,11 +73,21 @@
     "authority": "U.S. House of Representatives",
     "event_date": "2020-07-31",
     "status": "Sanction imposed",
-    "outcome": "House reprimand and $50,000 fine under adopted report. Related FEC settlements involved other respondents.",
-    "summary": "The Committee received referrals in 2018 and expanded its subcommittee inquiry. Schweikert admitted 11 violations involving campaign finance and disclosure, official resources, campaign work by staff, and lack of candor. The House adopted the Committee report on July 31, 2020, implementing the reprimand and $50,000 fine. In the related FEC matter, the campaign committee agreed to a $125,000 civil penalty and former staffer Richard Oliver Schwab agreed to $7,500.",
+    "outcome": "House reprimand and $50,000 fine. Separate FEC settlements involved the campaign committee and a former staffer.",
+    "summary": "The House Ethics Committee investigated referrals received in 2018. Schweikert admitted 11 violations involving campaign finance and disclosure, official resources and staff, and lack of candor. On July 31, 2020, the House adopted the Committee report under H.Res. 1074, reprimanding Schweikert and imposing a $50,000 fine. In FEC MUR 7923, the campaign committee and former staffer Richard Oliver Schwab separately agreed to civil penalties of $125,000 and $7,500, respectively.",
     "source": "https://www.govinfo.gov/content/pkg/CRPT-116hrpt465/html/CRPT-116hrpt465-pt1.htm",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "H.Res. 1074 as adopted",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-116hres1074eh/html/BILLS-116hres1074eh.htm"
+      },
+      {
+        "label": "FEC MUR 7923",
+        "url": "https://www.fec.gov/data/legal/matter-under-review/7923/"
+      }
+    ]
   },
   {
     "id": "ocasio-cortez-met-gala",
@@ -63,8 +97,8 @@
     "authority": "U.S. House Committee on Ethics",
     "event_date": "2025-07-25",
     "status": "Finding with remedial directions",
-    "outcome": "Impermissible gifts and delayed payment. Additional payments directed.",
-    "summary": "The Committee received the OCE referral in June 2022. Its July 2025 report found that Ocasio-Cortez accepted impermissible goods and services connected to the 2021 Met Gala and delayed appropriate payment. It did not find knowing or willful violations. It directed additional payments of $2,733.28 to the designer and $250 to the Costume Institute for her guest’s meal. The report made closure conditional on payment.",
+    "outcome": "Gift-rule and oversight findings. Additional payments directed, with closure subject to confirmation.",
+    "summary": "The Committee found that Ocasio-Cortez accepted impermissible gifts related to her attire and her guest’s free admission to the 2021 Met Gala, that vendor payments were delayed, and that she failed to exercise proper oversight over staff. It noted her proactive compliance efforts and found no evidence that she intentionally underpaid. It did not find that the violations were knowing and willful and did not deem a sanction necessary. It directed an additional $2,733.28 payment to Brother Vellies and a $250 donation to the Costume Institute for her guest’s meal, with closure subject to confirmation of payment.",
     "source": "https://www.govinfo.gov/content/pkg/CRPT-119hrpt219/html/CRPT-119hrpt219.htm",
     "verified_date": "2026-11-24",
     "approval": "approved"
@@ -78,10 +112,20 @@
     "event_date": "2026-11-23",
     "status": "Committee finding",
     "outcome": "Committee found violations of clauses 1 and 18(b). Any House sanction requires separate House action.",
-    "summary": "The Committee announced its review on August 17, 2026. On November 19 it adopted a report finding that Gomez made unwelcome sexual advances toward a House staffer in violation of the Code of Official Conduct. Gomez maintained that contact was consensual. The Committee released the report on November 23 and left any sanction to the House.",
+    "summary": "The Committee announced its review on August 17, 2026. In a report adopted November 19 and released November 23, 2026, the House Ethics Committee found that Gomez violated clauses 1 and 18(b) of the Code of Official Conduct by making unwelcome sexual advances toward a House staffer. Gomez maintained that the contact was consensual. The Committee left any sanction to the House.",
     "source": "https://ethics.house.gov/wp-content/uploads/2026/11/Committee-Report-Rep.-Gomez-1.pdf",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "House Ethics August 17 announcement",
+        "url": "https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-jimmy-gomez/"
+      },
+      {
+        "label": "House Ethics November 23 release",
+        "url": "https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-jimmy-gomez-2/"
+      }
+    ]
   },
   {
     "id": "kelly-cleveland-cliffs",
@@ -91,9 +135,9 @@
     "authority": "U.S. House Committee on Ethics",
     "event_date": "2025-07-25",
     "status": "Committee reproval",
-    "outcome": "Committee report served as reproval. Divestment was recommended.",
-    "summary": "After a July 2021 OCE referral, the Committee reviewed a Cleveland-Cliffs stock purchase by Kelly’s spouse. It did not find substantial evidence of an insider-trading or conflict-of-interest violation. It found substantial evidence of a Code of Official Conduct violation and criticized Kelly’s conduct during the investigation, including untimely disclosure of an additional purchase. The report adopted July 22, 2025 served as a reproval and recommended divestment and donation of any profits to charity.",
-    "source": "https://www.govinfo.gov/content/pkg/CRPT-119hrpt218/pdf/CRPT-119hrpt218.pdf",
+    "outcome": "Committee reproval. Divestment and donation of any divestment profits recommended.",
+    "summary": "The Committee did not find evidence that Kelly knowingly or intentionally caused his spouse to trade on inside information, found no clear conflict-of-interest violation, and could not determine whether her purchase was improper. It found that Kelly violated clause 1 of the Code of Official Conduct, including by failing to meet his duty of candor. The report adopted July 22, 2025 served as a reproval. It recommended divestment before further official action directly related to Cleveland-Cliffs and donation to charity of any divestment profits.",
+    "source": "https://ethics.house.gov/wp-content/uploads/2025/07/20250725-Committee-Report.pdf",
     "verified_date": "2026-11-24",
     "approval": "approved"
   },
@@ -106,10 +150,20 @@
     "event_date": "2024-12-30",
     "status": "Dismissed",
     "outcome": "Committee closed the inquiry and took no further action.",
-    "summary": "OCE referred campaign spending allegations on March 25, 2024. The Committee extended review in May, released the referral and Hunt’s response on June 24, and announced closure on December 30. Its public statement covered several members and described compliance problems in some cases without identifying individual findings.",
+    "summary": "The Committee received an OCE referral on March 25, 2024 and published it with Hunt’s response on June 24. On December 30, 2024, the Committee announced it had unanimously closed several matters, including Hunt’s. It said it found no evidence that any member intentionally misused campaign funds for personal benefit. The statement did not attribute its group-level compliance concerns to Hunt individually.",
     "source": "https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "House Ethics June 24 release",
+        "url": "https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-wesley-hunt/"
+      },
+      {
+        "label": "House Ethics 118th Congress activities report",
+        "url": "https://ethics.house.gov/wp-content/uploads/2025/01/Committee-Report.pdf"
+      }
+    ]
   },
   {
     "id": "jackson-campaign-spending",
@@ -120,10 +174,16 @@
     "event_date": "2024-12-30",
     "status": "Dismissed",
     "outcome": "Committee closed the inquiry and took no further action.",
-    "summary": "The Committee received OCE referrals on December 22, 2021 and March 25, 2024 about the same campaign spending allegations. It published referral materials in May 2022 and June 2024. On December 30, 2024, it announced closure. Its public statement covered several members and described compliance problems in some cases without identifying individual findings.",
+    "summary": "The Committee received OCE referrals on December 22, 2021 and March 25, 2024 about the same campaign spending allegations and released referral materials in May 2022 and June 2024. On December 30, 2024, it announced it had unanimously closed several matters, including Jackson’s. It said it found no evidence that any member intentionally misused campaign funds for personal benefit. The statement did not attribute its group-level compliance concerns to Jackson individually.",
     "source": "https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "House Ethics 118th Congress activities report",
+        "url": "https://ethics.house.gov/wp-content/uploads/2025/01/Committee-Report.pdf"
+      }
+    ]
   },
   {
     "id": "moore-2014-protest",
@@ -161,8 +221,8 @@
     "authority": "U.S. House Committee on Ethics",
     "event_date": "2024-11-12",
     "status": "Closed",
-    "outcome": "Virginia charge dismissed. Committee took no further action. TSA civil penalty paid, as reported by Committee.",
-    "summary": "Spartz was cited at Dulles on June 28, 2024 and charged on July 11. The Committee reported that she completed a gun safety course, the charge was dismissed on September 20 by nolle prosequi, and she paid a separate TSA civil penalty. The Committee declined to impanel a subcommittee and closed the matter.",
+    "outcome": "Virginia charge dismissed and TSA civil penalty paid, as reported by the Committee. Committee closed its review.",
+    "summary": "The Committee reported that Spartz was cited at Dulles on June 28, 2024 for traveling through security with an unloaded handgun and was charged on July 11. Spartz told the Committee she completed a gun-safety course. The report states she paid a separate TSA civil penalty and that the Virginia charge was dismissed by nolle prosequi on September 20. The Committee declined to form a subcommittee and closed its review.",
     "source": "https://ethics.house.gov/wp-content/uploads/2024/11/Report-GPO-Print.pdf",
     "verified_date": "2026-11-24",
     "approval": "approved"
@@ -232,10 +292,24 @@
     "event_date": "2026-09-01",
     "status": "Sanction imposed",
     "outcome": "House censured Edwards on September 1, 2026.",
-    "summary": "The Committee announced its review in May 2026 and issued a report in August concluding there was substantial reason to believe Edwards violated House rules related to sexual harassment and a hostile workplace. Edwards disagreed with the findings and waived certain procedural steps. The Committee recommended censure and the House imposed it by adopting H. Res. 1498, 413–2.",
+    "summary": "The Committee publicly announced its review on May 14, 2026. The House Ethics Committee adopted its report on July 22, 2026 and recommended censure. It found that Edwards violated clauses 1 and 2 of the Code of Official Conduct through conduct contrary to the spirit of the House’s prohibition on sexual harassment and unwanted advances. Edwards cooperated with the investigation, disputed the findings and waived procedural steps required for the Committee to recommend a floor sanction. The House adopted H.Res. 1498 on September 1, 413–2, and censured him.",
     "source": "https://www.govinfo.gov/content/pkg/BILLS-119hres1498eh/html/BILLS-119hres1498eh.htm",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "House Ethics May 14 announcement",
+        "url": "https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-chuck-edwards/"
+      },
+      {
+        "label": "House Ethics censure recommendation and findings",
+        "url": "https://www.govinfo.gov/content/pkg/CRPT-119hrpt756/html/CRPT-119hrpt756-pt1.htm"
+      },
+      {
+        "label": "Clerk roll call 292",
+        "url": "https://clerk.house.gov/evs/2026/roll292.xml"
+      }
+    ]
   },
   {
     "id": "nehls-campaign-spending",
@@ -246,7 +320,7 @@
     "event_date": "2026-11-23",
     "status": "Committee reproval",
     "outcome": "Committee adopted a report serving as a reproval.",
-    "summary": "OCE referred the matter on December 11, 2023. The Committee extended review in March 2024 and published referral materials in May. It reviewed transactions involving campaign office rent and payments through Nehls’ company, found that use of an unregistered entity led to improper contributions, incomplete reporting and expenditures with an unverifiable campaign purpose, and adopted a reproval on November 19, 2026. Nehls disputed some of the report’s factual and legal conclusions.",
+    "summary": "The Committee received an OCE referral on December 11, 2023 and reviewed campaign rent and payments through Nehls’s company, Liberty 1776. It found the unregistered entity’s role led to improper contributions, incomplete reporting and expenditures whose campaign purpose could not be verified. Nehls disputed some factual and legal conclusions and noted the report’s treatment of recordkeeping discrepancies as inadvertent. The Committee adopted the report as a reproval on November 19, 2026 and closed the matter on publication.",
     "source": "https://ethics.house.gov/wp-content/uploads/2026/11/Committee-Report-Rep.-Nehls.pdf",
     "verified_date": "2026-11-24",
     "approval": "approved"
@@ -260,7 +334,7 @@
     "event_date": "2014-12-11",
     "status": "Committee reproval",
     "outcome": "Committee issued a public letter of reproval.",
-    "summary": "The Committee investigated the use of official resources for campaign work and Chu’s communications with staff during the inquiry. It issued a public letter of reproval for her violations of House rules, including interference with the investigation, and closed the matter upon publication.",
+    "summary": "The Committee found that two senior staffers directed limited campaign work using official resources. It found no evidence Chu knew of that improper use. It found that Chu’s communications with staff interfered with the inquiry and violated House rules. It noted her expression of regret, issued a public letter of reproval and closed the matter on publication.",
     "source": "https://www.govinfo.gov/content/pkg/CRPT-113hrpt665/html/CRPT-113hrpt665.htm",
     "verified_date": "2026-11-24",
     "approval": "approved"
@@ -315,8 +389,8 @@
     "authority": "U.S. House Committee on Ethics",
     "event_date": "2012-09-25",
     "status": "Closed",
-    "outcome": "Committee took no further action against Waters. Her chief of staff received a separate reproval.",
-    "summary": "The Committee reviewed Waters’ request for a Treasury meeting after a 2009 OCE referral. Outside counsel reviewed the matter and the Committee concluded the evidence did not support further action against Waters. The Committee issued a letter of reproval to her chief of staff, Mikael Moore, for his conduct.",
+    "outcome": "Committee found no violation by Waters. Her chief of staff received a separate reproval.",
+    "summary": "After an OCE referral, the Committee and outside counsel reviewed Waters’s request for a Treasury meeting. The Committee concluded that Waters did not violate any applicable House rule, law, regulation or standard of conduct. It issued a separate letter of reproval to her chief of staff, Mikael Moore, for his actions regarding OneUnited.",
     "source": "https://www.govinfo.gov/content/pkg/CRPT-112hrpt690/html/CRPT-112hrpt690.htm",
     "verified_date": "2026-11-24",
     "approval": "approved"
@@ -329,9 +403,9 @@
     "authority": "U.S. House Committee on Ethics",
     "event_date": "2024-06-05",
     "status": "Closed",
-    "outcome": "Committee found a House rule violation and took no further action.",
-    "summary": "After an August 2019 OCE referral, the Committee found that inadequate campaign recordkeeping led to a violation of clause 6 of the Code of Official Conduct. It did not find clear personal use of campaign funds, recognized corrective efforts, and unanimously took no further action.",
-    "source": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt541/pdf/CRPT-118hrpt541.pdf",
+    "outcome": "Committee found a recordkeeping-related House rule violation and closed the matter without a sanction.",
+    "summary": "The House Ethics Committee found that inadequate campaign recordkeeping violated clause 6 of the Code of Official Conduct. It did not find clear personal use of campaign funds by Huizenga. The Committee noted his cooperation and corrective steps, sent a private letter with its findings and expectations, and took no further action without imposing a sanction.",
+    "source": "https://www.govinfo.gov/content/pkg/CRPT-118hrpt541/html/CRPT-118hrpt541.htm",
     "verified_date": "2026-11-24",
     "approval": "approved"
   },
@@ -343,8 +417,8 @@
     "authority": "U.S. House Committee on Ethics",
     "event_date": "2026-11-23",
     "status": "Closed",
-    "outcome": "Committee found improper office practices and agreed on a $2,880 return to Treasury.",
-    "summary": "The Committee received an OCC referral on October 7, 2025 and published it in January 2026. It found improper intern compensation and acceptance of volunteer services and identified potentially improper staff travel reimbursements without finding substantial evidence of misuse for that travel. The report adopted November 19 called for $2,880 to be returned to Treasury and closed the matter.",
+    "outcome": "Committee closed the matter after agreeing with Collins on a $2,880 return to Treasury for intern compensation.",
+    "summary": "The Committee found that Collins’s congressional office improperly paid an intern and accepted improper voluntary services. It identified potentially improper travel reimbursements involving a staffer but did not find substantial evidence that his office misused its Members’ Representational Allowance for that travel. Collins and the Committee agreed that $2,880 would be returned to the Treasury for the intern compensation, and the Committee closed the matter.",
     "source": "https://ethics.house.gov/wp-content/uploads/2026/11/Committee-Report-Rep.-Collins.pdf",
     "verified_date": "2026-11-24",
     "approval": "approved"
@@ -386,10 +460,20 @@
     "event_date": "2021-06-25",
     "status": "Fine upheld",
     "outcome": "Appeal did not receive majority support.",
-    "summary": "The Committee received notice on May 20, 2021 that the Sergeant at Arms fined Duyne under H. Res. 38, the House chamber mask rule. Duyne appealed on May 24, 2021. The appeal did not receive majority support, so the fine was upheld under the applicable rule.",
+    "summary": "The Committee received notice on May 20, 2021 that the Sergeant at Arms had fined Van Duyne under H.Res. 38. She appealed on May 24, citing her vaccination status and CDC guidance, among other grounds. The appeal did not receive majority support, and the fine was upheld under the rule.",
     "source": "https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth/",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "Member’s written appeal and any attached fine notice",
+        "url": "https://ethics.house.gov/wp-content/uploads/2021/06/Rep.-Van-Duyne-Appeal-Letter.pdf"
+      },
+      {
+        "label": "H.Res. 38 as adopted",
+        "url": "https://www.congress.gov/117/bills/hres38/BILLS-117hres38eh.pdf"
+      }
+    ]
   },
   {
     "id": "miller-meeks-mask-may",
@@ -428,10 +512,28 @@
     "event_date": "2021-07-20",
     "status": "Fine upheld",
     "outcome": "Appeal did not receive majority support.",
-    "summary": "The Committee received notice on May 20, 2021 that the Sergeant at Arms fined Norman under H. Res. 38, the House chamber mask rule. Norman appealed on June 16, 2021. The appeal did not receive majority support, so the fine was upheld under the applicable rule. The subsequent federal civil challenge was dismissed on Speech or Debate Clause grounds, and the Supreme Court denied review in 2024.",
+    "summary": "The Committee received notice of Norman’s H.Res. 38 fine on May 20, 2021. He appealed on June 16, saying he was vaccinated and relied on CDC guidance. The appeal did not receive majority support. In a separate civil case, the D.C. Circuit affirmed dismissal on Speech or Debate Clause grounds. The Supreme Court denied review on February 20, 2024.",
     "source": "https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ralph/",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "Member’s written appeal and any attached fine notice",
+        "url": "https://ethics.house.gov/wp-content/uploads/2021/07/Rep.-Norman-Ethics-Appeal.pdf"
+      },
+      {
+        "label": "H.Res. 38 as adopted",
+        "url": "https://www.congress.gov/117/bills/hres38/BILLS-117hres38eh.pdf"
+      },
+      {
+        "label": "Massie v. Pelosi, D.C. Circuit opinion",
+        "url": "https://media.cadc.uscourts.gov/opinions/docs/2023/06/22-5058-2005864.pdf"
+      },
+      {
+        "label": "Supreme Court docket 23-566",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/23-566.html"
+      }
+    ]
   },
   {
     "id": "massie-mask",
@@ -442,10 +544,28 @@
     "event_date": "2021-07-20",
     "status": "Fine upheld",
     "outcome": "Appeal did not receive majority support.",
-    "summary": "The Committee received notice on May 20, 2021 that the Sergeant at Arms fined Massie under H. Res. 38, the House chamber mask rule. Massie appealed on June 15, 2021. The appeal did not receive majority support, so the fine was upheld under the applicable rule. The subsequent federal civil challenge was dismissed on Speech or Debate Clause grounds, and the Supreme Court denied review in 2024.",
+    "summary": "The Committee received notice of Massie’s H.Res. 38 fine on May 20, 2021. He appealed on June 15 and challenged the rule’s enforcement. The appeal did not receive majority support. In a separate civil case, the D.C. Circuit affirmed dismissal on Speech or Debate Clause grounds. The Supreme Court denied review on February 20, 2024.",
     "source": "https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-thomas/",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "Member’s written appeal and any attached fine notice",
+        "url": "https://ethics.house.gov/wp-content/uploads/2021/07/20210615-Massie-Appeal-Letter.pdf"
+      },
+      {
+        "label": "H.Res. 38 as adopted",
+        "url": "https://www.congress.gov/117/bills/hres38/BILLS-117hres38eh.pdf"
+      },
+      {
+        "label": "Massie v. Pelosi, D.C. Circuit opinion",
+        "url": "https://media.cadc.uscourts.gov/opinions/docs/2023/06/22-5058-2005864.pdf"
+      },
+      {
+        "label": "Supreme Court docket 23-566",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/23-566.html"
+      }
+    ]
   },
   {
     "id": "roy-mask",
@@ -512,10 +632,24 @@
     "event_date": "2021-06-28",
     "status": "Fine upheld",
     "outcome": "Appeal did not receive majority support.",
-    "summary": "The Committee received notice on May 20, 2021 that the Sergeant at Arms fined Smucker under H. Res. 73, the House chamber security screening rule. Smucker appealed on May 25, 2021. The appeal did not receive majority support, so the fine was upheld under the applicable rule.",
+    "summary": "The Committee received notice of Smucker’s H.Res. 73 fine on May 20, 2021. He appealed on May 25, but the appeal did not receive majority support. In a later civil challenge involving Smucker and two other members, the D.C. Circuit affirmed dismissal on Speech or Debate Clause grounds. The Supreme Court denied review on April 15, 2024.",
     "source": "https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-27/",
     "verified_date": "2026-11-24",
-    "approval": "approved"
+    "approval": "approved",
+    "additional_sources": [
+      {
+        "label": "H.Res. 73 as adopted",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-117hres73eh/pdf/BILLS-117hres73eh.pdf"
+      },
+      {
+        "label": "Clyde v. Walker, D.C. Circuit judgment",
+        "url": "https://media.cadc.uscourts.gov/judgments/docs/2023/10/22-5263-2022857.pdf"
+      },
+      {
+        "label": "Supreme Court docket 23-755",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/23-755.html"
+      }
+    ]
   },
   {
     "id": "foxx-screening",
